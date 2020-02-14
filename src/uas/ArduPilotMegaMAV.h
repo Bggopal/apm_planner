@@ -498,6 +498,8 @@ enum Mode
     FLOWHOLD    = 22,
     FOLLOW      = 23,
     ZIGZAG      = 24,
+    NEWFLIGHTMODE= 25,
+
     LAST_MODE           // This must always be the last entry
 };
 
